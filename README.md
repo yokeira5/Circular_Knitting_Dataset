@@ -94,7 +94,7 @@ Circular_Knitting_Dataset/
 
 ## Download
 
-To be announced.
+[Dataset link.](https://drive.google.com/file/d/1kH9_ETZdDaDGBQaaS2q3UvncdEjDAdNv/view?usp=drive_link)
 
 ## 📄 中文版 README
 
