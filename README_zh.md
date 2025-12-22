@@ -99,7 +99,8 @@ Circular_Knitting_Dataset/
 
 ## 🔽 下載方式
 
-正在更新。
+[Dataset link.](https://drive.google.com/file/d/1LR1H2EsWatYOhfT5_HHVP5PDDRn039bM/view?usp=drive_link)
+
 
 ## 📄 English README  
 查看英文版本說明文件，請參考：
