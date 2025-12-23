@@ -89,8 +89,8 @@ Circular_Knitting_Dataset/
 │   │   ├── cutline/
 │   │   └── groundtruth/       # cutline 對應的 mask
 │   └── test/
-│       ├── illumination_1/
-│       └── illumination_2/
+│       ├── Dataset1/
+│       └── Dataset4/
 │           ├── data/
 │           └── groundtruth/
 │               ├── cutline/    # cutline mask
@@ -99,7 +99,7 @@ Circular_Knitting_Dataset/
 
 ## 🔽 下載方式
 
-[Dataset link.](https://drive.google.com/file/d/1LR1H2EsWatYOhfT5_HHVP5PDDRn039bM/view?usp=drive_link)
+[Dataset link.](https://drive.google.com/file/d/1oT2JKoc6v36lCptoRiDmFaeFe4-E-rBi/view?usp=drive_link)
 
 
 ## 📄 English README  
